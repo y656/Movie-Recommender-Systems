@@ -11,9 +11,9 @@ The results are as follows:
 
 movie id title	vote_count	avg_rating	genres	score
 
-1.Shawshank Redemption, The (1994)	63366	4.446990	Crime|Drama	4.438219
+1. Shawshank Redemption, The (1994)	63366	4.446990	Crime|Drama	4.438219
 
-2.843	Godfather, The (1972)	41355	4.364732	Crime|Drama	4.352553
+2. 843	Godfather, The (1972)	41355	4.364732	Crime|Drama	4.352553
 
 3. 49	Usual Suspects, The (1995)	47006	4.334372	Crime|Mystery|Thriller	4.324027
 

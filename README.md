@@ -8,16 +8,27 @@ This repositories contain different recommender systems applied on the famous Mo
 Demographic Filtering:
 In the notebook I have applied weighted IMDB rating and recalculated scores of each movie and found the top scored movies. 
 The results are as follows:
+
 title	vote_count	avg_rating	genres	score
+
 Shawshank Redemption, The (1994)	63366	4.446990	Crime|Drama	4.438219
+
 843	Godfather, The (1972)	41355	4.364732	Crime|Drama	4.352553
+
 49	Usual Suspects, The (1995)	47006	4.334372	Crime|Mystery|Thriller	4.324027
+
 523	Schindler's List (1993)	50054	4.310175	Drama|War	4.300743
+
 1195	Godfather: Part II, The (1974)	27398	4.275641	Crime|Drama	4.259330
+
 887	Rear Window (1954)	17449	4.271334	Mystery|Thriller	4.246182
+
 895	Casablanca (1942)	24349	4.258327	Drama|Romance	4.240446
+
 1935	Seven Samurai (Shichinin no samurai) (1954)	11611	4.274180	Action|Adventure|Drama	4.236870
+
 1169	One Flew Over the Cuckoo's Nest (1975)	29932	4.248079	Drama	4.233671
+
 737	Dr. Strangelove or: How I Learned to Stop Worr...23220	4.247287	Comedy|War	4.228841
 
 The top most scored movie is Shawshank Redemption, The (1994) with a  nice score of 4.43

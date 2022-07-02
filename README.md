@@ -1,8 +1,8 @@
 
 # Movie-Recommender-Systems
 
-This repositories contain different recommender systems applied on the famous MovieLens 20M dataset.<br />
-It contains three repositories:
+This repository contain different recommender systems applied on the famous MovieLens 20M dataset.<br />
+It contains three code files:
 1. Demographic Filtering
 2. Content Based Filtering
 3. Collaborative Filtering
